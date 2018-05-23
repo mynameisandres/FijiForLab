@@ -1,0 +1,4 @@
+Size: 100
+Filter: 200
+X_Range: 300
+Y_Range: 400

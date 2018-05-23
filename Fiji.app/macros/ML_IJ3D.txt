@@ -1,0 +1,9 @@
+//run("Mitosis (26MB, 5D stack)");
+
+
+run("3D Viewer");
+
+//Image,color,Image_Name,start_time,idk,idk,idk,resampling,threshold
+call("ij3d.ImageJ3DViewer.add", "mitosis.tif", "None", "mitosis.tif", "0", "true", "true", "true", "2", "0");
+
+
